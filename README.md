@@ -7,7 +7,7 @@ The app allows users to easily join to an existing room or create new one in ord
 - [Express.js](https://expressjs.com/)
 - [Socket.io](https://socket.io/)
 
-## Setup
+## Local setup
 - Clone the repo: `git clone https://github.com/TulioMolina/chat-app.git`
 - Install dependencies: `npm install`
-- Run locally: `npm run dev`
+- Run locally on port 3000: `npm run dev`
