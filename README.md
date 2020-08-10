@@ -12,4 +12,4 @@ The app allows users to easily join to an existing room or create new one in ord
 - Install dependencies: `npm install`
 - Run locally on port 3000: `npm run dev`
 
-Deployed app at this [link](https://tm-chat-app.herokuapp.com/)
+Deployed app at this [link](https://tm-chat-app.herokuapp.com/).
